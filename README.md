@@ -67,7 +67,8 @@ Report Export: The final report is saved as a PDF or DOCX.
 ✅ Benefits Saves hours of manual work.
 
 Reduces human error.
-
+#output
+![Image](https://github.com/user-attachments/assets/76edd198-0622-4ae6-be68-7d1f40bbc3fb)
 
 Increases reporting consistency.
 
